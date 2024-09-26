@@ -1,5 +1,5 @@
 import psutil #type: ignore
-import platform
+import platform #type: ignore 
 import matplotlib.pyplot as plt #type: ignore
 from matplotlib.animation import FuncAnimation #type: ignore
 import os
