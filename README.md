@@ -22,7 +22,7 @@ Gratop is a user-friendly graphical application designed to provide a clear and 
 3. **Install Gratop:**
    - Within the activated virtual environment, use `git` to install Gratop:
      ```bash
-     git install https://github.com/BisuBaniya/Gratop.git
+     git clone https://github.com/BisuBaniya/Gratop.git
      ```
 
 **Usage**
